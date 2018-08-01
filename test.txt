@@ -1,1 +1,1 @@
-prvi commit na rebase_branch
+drugi commit na rebase_branch
