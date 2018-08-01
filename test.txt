@@ -1,1 +1,1 @@
-prvi commit posle merga
+drugi commit posle merga
